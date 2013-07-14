@@ -3,13 +3,3 @@
 	"main": "main.html"
 
 	"version": "0.0.1",
-
-	"time": {
-		"awake": "0",
-		"sleep": "0"
-	},
-
-	"init": [
-		"main.js"
-	]
-}
